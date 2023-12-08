@@ -15,5 +15,7 @@ public class test {
         System.out.println(555555);
         System.out.println("hot fit");
         System.out.println("hot fit 1");
+        System.out.println("merger 1");
+        System.out.println("merger 2");
     }
 }
