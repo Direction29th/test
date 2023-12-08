@@ -12,5 +12,7 @@ public class test {
         System.out.println("master,master,master,master");
         System.out.println("master,master,master,master");
         System.out.println("master,master,master,master");
+
+        System.out.println("alpha alpha alpha alpha alpha alpha alpha");
     }
 }
