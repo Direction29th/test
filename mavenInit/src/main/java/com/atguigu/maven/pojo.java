@@ -13,5 +13,7 @@ public class pojo {
     private Integer Id;
     private String Name;
 
+    int age;
+
 
 }
