@@ -9,9 +9,9 @@ public class test {
         System.out.println("master,master,master,mast2131231231er");
         System.out.println("master,master,master,master1232132132321312");
 
-        System.out.println("master,master,master,master");
-        System.out.println("master,master,master,master");
-        System.out.println("master,master,master,master");
+        System.out.println("new4,new4,new4,new4");
+        System.out.println("new4,new4,new4,new4");
+        System.out.println("new4,new4,new4,new4");
 
         System.out.println("alpha alpha alpha alpha alpha alpha alpha");
     }
